@@ -54,14 +54,22 @@
 		E9CC1D9F20C3469C002DAF0D /* LuvBirds Bluetooth */ = {
 			isa = PBXGroup;
 			children = (
-				E9CC1DA020C3469C002DAF0D /* AppDelegate.swift */,
+				E9CC1DB220C346F4002DAF0D /* Supporting Files */,
 				E9CC1DA220C3469C002DAF0D /* ViewController.swift */,
 				E9CC1DA420C3469C002DAF0D /* Main.storyboard */,
-				E9CC1DA720C3469E002DAF0D /* Assets.xcassets */,
-				E9CC1DA920C3469E002DAF0D /* LaunchScreen.storyboard */,
 				E9CC1DAC20C3469E002DAF0D /* Info.plist */,
 			);
 			path = "LuvBirds Bluetooth";
+			sourceTree = "<group>";
+		};
+		E9CC1DB220C346F4002DAF0D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E9CC1DA020C3469C002DAF0D /* AppDelegate.swift */,
+				E9CC1DA720C3469E002DAF0D /* Assets.xcassets */,
+				E9CC1DA920C3469E002DAF0D /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
